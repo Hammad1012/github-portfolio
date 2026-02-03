@@ -1,4 +1,4 @@
-## Collobarators
+## 🤝 Github Network
 
 ### Following (5+)
 * [@kennethreitz](https://github.com/kennethreitz)
