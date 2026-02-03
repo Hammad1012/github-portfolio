@@ -14,14 +14,14 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 ## 📸 Proof of Work
 ![My Terminal Success](terminal.png)
 
-## Forked Repositories
+## Forked Repositories (2+)
 
 ### 1. Penetration Testing Methodology
 **Original Repo:** https://github.com/botesjuan/PenTestMethodology  
 **Author:** @botesjuan  
 
 - **Description:** A comprehensive reference of penetration testing techniques, commands, and methodologies covering reconnaissance, enumeration, exploitation, Active Directory attacks, and post exploitation.
-- **Relevance:** This repository is directly relevant to IT-520 because it helps me understand real-world attack techniques so I can better design secure systems and identify vulnerabilities in business environments.
+- **Relevance:** This repository is directly relevant to IT-335 because it helps me understand real-world attack techniques so I can better design secure systems and identify vulnerabilities in business environments.
 
 ---
 
